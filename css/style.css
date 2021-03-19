@@ -30,7 +30,8 @@ img {
   background: url(../img/background-1.jpg) no-repeat;
   background-position: center;
   background-size: cover;
-  position: relative; }
+  position: relative;
+  background-attachment: fixed; }
   .background__img::before {
     content: "";
     position: absolute;
@@ -727,7 +728,8 @@ header {
   background: url(../img/back_2.jpg) no-repeat;
   background-position: center;
   background-size: cover;
-  position: relative; }
+  position: relative;
+  background-attachment: fixed; }
   .block__3::before {
     content: "";
     position: absolute;
@@ -1466,7 +1468,8 @@ header {
   background: url(../img/back_2.jpg) no-repeat;
   background-position: center;
   background-size: cover;
-  position: relative; }
+  position: relative;
+  background-attachment: fixed; }
   .block__7::before {
     content: "";
     position: absolute;

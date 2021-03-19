@@ -38,6 +38,7 @@ img {
   background-position: center;
   background-size: cover;
   position: relative;
+  background-attachment: fixed;
 
   &::before {
     content: "";
@@ -696,7 +697,7 @@ header {
   background-position: center;
   background-size: cover;
   position: relative;
-
+  background-attachment: fixed;
   &::before {
     content: "";
     position: absolute;
@@ -1415,7 +1416,7 @@ header {
   background-position: center;
   background-size: cover;
   position: relative;
-
+  background-attachment: fixed;
   &::before {
     content: "";
     position: absolute;
